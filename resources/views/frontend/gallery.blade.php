@@ -5,7 +5,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <script src="https://kit.fontawesome.com/a59b9b09ab.js" crossorigin="anonymous"></script>
-        <title>Galeri SD Islam Bintang Juara</title>
+        <title>Galeri PAUD Islam Bintang Juara</title>
         <!-- add icon link -->
         <link rel = "icon" href = "{{asset('front/logo1.png')}}" type ="image/x-icon">
         <link rel="stylesheet" type="text/css" href="{{asset('front/css/style.css')}}">
@@ -27,7 +27,7 @@
 
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp SD Islam Bintang Juara</strong>
+            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp PAUD Islam Bintang Juara</strong>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

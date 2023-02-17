@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Ubah Fakta SD</title>
+    <title>Ubah Fakta PAUD</title>
     <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
     <link rel="icon" href="{{asset('front/logo1.png')}}" type="image/x-icon"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" crossorigin="anonymous">
@@ -46,7 +46,7 @@
                         <div class="card full-height">
                             <div class="card-header">
                                 <div class="card-head-row">
-                                    <div class="card-title">Edit Fakta SD</div>
+                                    <div class="card-title">Edit Fakta PAUD</div>
                                     <a href="{{route('fakta.index')}}" class="btn btn-warning btn-sm ml-auto"> <i class="fas fa-undo"></i> Kembali </a>
                                 </div>
                             </div>

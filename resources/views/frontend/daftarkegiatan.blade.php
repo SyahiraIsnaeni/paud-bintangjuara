@@ -26,7 +26,7 @@
 
     <div class="container">
         <a class="navbar-brand" href="../">
-            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp SD Islam Bintang Juara</strong>
+            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp PAUD Islam Bintang Juara</strong>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -72,7 +72,7 @@
                     <div class="col-12 col-md-12 col-lg-6">
                         <div class="row mb-3 ">
                             <h1 align="left" style="text-shadow: 2px 2px 10px #000000;">Daftar Kegiatan</h1>
-                            <h4 align="justify" style="text-shadow: 2px 2px 10px #000000;">Kumpulan kegiatan SD Islam Bintang Juara</h4>
+                            <h4 align="justify" style="text-shadow: 2px 2px 10px #000000;">Kumpulan kegiatan PAUD Islam Bintang Juara</h4>
                         </div>
                         <div class="row mb-5">
                             <a>

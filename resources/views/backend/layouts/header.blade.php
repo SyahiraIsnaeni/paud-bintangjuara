@@ -15,7 +15,7 @@
 
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-	
+
 	<script src="{{ asset('back/js/plugin/webfont/webfont.min.js') }}"></script>
 	<script>
 		WebFont.load({
@@ -31,22 +31,22 @@
 	<link rel="stylesheet" href="{{asset('back/css/bootstrap.min.css')}}">
 	<!-- <link rel="stylesheet" href="{{asset('back/css/atlantis.min.css')}}"> -->
 	<link rel="stylesheet" href="{{asset('back/css/style.css')}}">
-	
-	
+
+
 
 	<!-- CSS Just for demo purpose, don't include it in your project
 	<link rel="stylesheet" href="{{asset('back/css/demo.css')}}"> -->
-	
+
 </head>
 <body>
 	<div class="wrapper">
 		<div class="main-header">
 			<!-- Logo Header -->
 			<div class="logo-header " data-background-color="blue">
-			
+
 				<a class="logo" >
 				<h2 class="text-white mt-2 fw-bold">
-					<img src="{{asset('back/img/logo.png')}}" width="50" height="50" >   Admin SD
+					<img src="{{asset('back/img/logo.png')}}" width="50" height="50" >   Admin PAUD
 				</h2>
 					</a>
 			</div>
@@ -54,7 +54,7 @@
 
 			<!-- Navbar Header -->
 			<nav class="navbar navbar-header navbar-expand-lg" data-background-color="blue2">
-				
+
 				<div class="container-fluid">
 					<ul class="navbar-nav topbar-nav ml-md-auto align-items-center">
 					</ul>
@@ -62,7 +62,7 @@
 			</nav>
 			<!-- End Navbar -->
 		</div>
-	
+
 	</div>
 	<div class="main-panel">
 		<div class="content">
@@ -74,7 +74,7 @@
 					</nav>
 					<div class="copyright ml-auto">
 						Copyright © 2023 psbbintangjuara.com. All rights reserved
-					</div>				
+					</div>
 				</div>
 	</footer>
 	<!--   Core JS Files   -->

@@ -49,7 +49,7 @@
                             <i class="fab fa-youtube fa-2x"></i></a></div>
                     <div class="col">
                         <a class="text-white" href="https://www.youtube.com/channel/UCmKyv8sPPwrv-LyDaES6L8w/" target="/blank" style="text-decoration: none;">
-                            <p>SD Islam Bintang Juara</p>
+                            <p>PAUD Islam Bintang Juara</p>
                         </a>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                             <i class="fab fa-facebook fa-2x"></i></a></div>
                     <div class="col">
                         <a class="text-white" href="https://www.facebook.com/sdislambintangjuara/" style="text-decoration: none;" target="/blank">
-                            <p>SD Islam Bintang Juara</p>
+                            <p>PAUD Islam Bintang Juara</p>
                         </a>
                     </div>
                 </div>

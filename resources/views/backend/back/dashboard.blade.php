@@ -5,7 +5,7 @@
 	<div class="page-inner py-5">
 		<div class="d-flex align-items-left align-items-md-center flex-column flex-md-row">
 			<div>
-				<h2 class="text-white pb-2 fw-bold">Dashboard Admin SD</h2>
+				<h2 class="text-white pb-2 fw-bold">Dashboard Admin PAUD</h2>
 			</div>
 		</div>
 	</div>
@@ -149,7 +149,7 @@
 							<a class="text-black" style="text-decoration: none; font-size: small; ">
 								<h5>{{$row->judul}}</h5>
 							</a>
-							
+
 						</div>
 						<div class="col-1 col-md-1 col-lg-1 mt-3 mb-3">
 						<a href="{{route('kegiatan.edit', $row->id) }}"
@@ -178,7 +178,7 @@
 							<a class="text-black" style="text-decoration: none; font-size: small; ">
 								<h5>{{$row->judul}}</h5>
 							</a>
-							
+
 						</div>
 						<div class="col-1 col-md-1 col-lg-1 mt-3 mb-3">
 						<a href="{{route('berita.edit', $row->id) }}"
@@ -207,7 +207,7 @@
 							<a class="text-black" style="text-decoration: none; font-size: small; ">
 								<h5>{{$row->judul}}</h5>
 							</a>
-							
+
 						</div>
 						<div class="col-1 col-md-1 col-lg-1 mt-3 mb-3">
 						<a href="{{route('artikel.edit', $row->id) }}"
@@ -236,7 +236,7 @@
 							<a class="text-black" style="text-decoration: none; font-size: small; ">
 								<h5>{{$row->judul}}</h5>
 							</a>
-							
+
 						</div>
 						<div class="col-1 col-md-1 col-lg-1 mt-3 mb-3">
 						<a href="{{route('pengumuman.edit', $row->id) }}"

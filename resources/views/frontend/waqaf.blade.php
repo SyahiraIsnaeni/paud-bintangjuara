@@ -39,7 +39,7 @@
 
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp SD Islam Bintang Juara</strong>
+            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp PAUD Islam Bintang Juara</strong>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

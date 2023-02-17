@@ -5,7 +5,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <script src="https://kit.fontawesome.com/a59b9b09ab.js" crossorigin="anonymous"></script>
-        <title>SD Islam Bintang Juara</title>
+        <title>PAUD Islam Bintang Juara</title>
         <!-- add icon link -->
         <link rel = "icon" href = "{{asset('front/logo1.png')}}" type ="image/x-icon">
 
@@ -45,7 +45,7 @@
 
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp SD Islam Bintang Juara</strong>
+            <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"><strong>&nbsp PAUD Islam Bintang Juara</strong>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -108,7 +108,7 @@
         <div class="row">
             <div class="col-7">
                 <input type="checkbox" id="check" />
-                <p align="justify">SD ISLAM BINTANG JUARA adalah Islamic Character Based School yang mengedepankan pendidikan
+                <p align="justify">PAUD ISLAM BINTANG JUARA adalah Islamic Character Based School yang mengedepankan pendidikan
                     diniyyah seperti pembiasaan ibadah, tahsin & tahfidz, serta penanaman adab dan akhlak mulia.
                 <div class="content">
                     <p align="justify">Kami juga menerapkan pembelajaran
@@ -255,7 +255,7 @@
         <div class="bintangjuaravideo">
             <div class="heading">
                 <div class="text-center">
-                    <h2 class="title"><b>Lebih Dekat dengan SD Islam Bintang Juara</b></h2></div>
+                    <h2 class="title"><b>Lebih Dekat dengan PAUD Islam Bintang Juara</b></h2></div>
             </div>
         </div>
         <section class="yt">
@@ -269,7 +269,7 @@
                                 <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
                                     <iframe class="elementor-video" frameborder="0" allowfullscreen="1"
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                            title="Video Profile SD Islam Bintang Juara Semarang | Sekolah Calon Pemimpin Muslim | Sekolah Ramah Anak"
+                                            title="Video Profile PAUD Islam Bintang Juara Semarang | Sekolah Calon Pemimpin Muslim | Sekolah Ramah Anak"
                                             width="620" height="360"
                                             src="https://www.youtube.com/embed/1GL6RJMI0S4?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=1"
                                             id="widget2"></iframe>
@@ -283,7 +283,7 @@
                         <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
                             <iframe class="elementor-video" frameborder="0" allowfullscreen="1"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                    title="Leadership Camp SD Islam Bintang Juara | &quot;More Than Just Adventure&quot;" width="620"
+                                    title="Leadership Camp PAUD Islam Bintang Juara | &quot;More Than Just Adventure&quot;" width="620"
                                     height="360"
                                     src="https://www.youtube.com/embed/zvGGvawkXPo?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=3"
                                     id="widget4"></iframe>
@@ -388,7 +388,7 @@
                     <div class="row">
                         <div class="col">
                             <h2> <b> FAKTA TENTANG</b></h2></div>
-                        <h3>SD Islam Bintang Juara</h3>
+                        <h3>PAUD Islam Bintang Juara</h3>
                     </div>
                 </div>
                 <div class="row g-3 mt-3">

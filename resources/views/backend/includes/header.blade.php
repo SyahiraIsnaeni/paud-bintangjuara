@@ -4,7 +4,7 @@
 
 				<a href="{{ route('dashboard') }}" class="logo" >
 				<h2 class="text-white mt-1 fw-bold">
-					<img src="{{asset('back/img/logo.png')}}" alt="navbar brand" class="navbar-brand"width="51" height="51" >   Admin SD
+					<img src="{{asset('back/img/logo.png')}}" alt="navbar brand" class="navbar-brand"width="51" height="51" >   Admin PAUD
 				</h2>
 					</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
