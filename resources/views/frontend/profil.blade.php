@@ -129,12 +129,12 @@
             <div class="row fs-5">
                 <div class="col-12 col-md-6 col-lg-6">
                     <h2><strong>Tentang kami</strong> </h2>
-                    <p align="justify">SD ISLAM BINTANG JUARA berdiri pada tahun 2017 oleh karena komitmen kami untuk memberikan
-                        layanan pendidikan
-                        anak berdasarkan potensi dan tahap perkembangannya setelah kami berhasil mengawal model pendidikan tersebut
-                        di
-                        PAUD ISLAM BINTANG
-                        JUARA.</p>
+                    <p align="justify">PAUD Islam Bintang Juara merupakan lembaga PAUD terpadu dengan layananan pengasuhan anak 
+                        (daycare). PAUD Islam Bintang Juara memiliki prinsip "Pendidikan Holistik Integratif" yang
+                        mengutamakan peletakan Pondasi Akidah Pembiasaan Akhlakul Karimah dan Adab Islami.
+                        PAUD Islam Bintang Juara memiliki upaya optimalisasi perkembangan seluruh aspek perkembangan
+                        anak dan potensi Multiple Intelligences.
+                    </p>
                 </div>
 
                 <div class="col-12 col-md-6 col-lg-6">
@@ -149,7 +149,7 @@
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 title="Video Profile PAUD Islam Bintang Juara Semarang | Sekolah Calon Pemimpin Muslim | Sekolah Ramah Anak"
                                                 width="620px" height="360px"
-                                                src="https://www.youtube.com/embed/1GL6RJMI0S4?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=1"
+                                                src="https://www.youtube.com/embed/4XFlYAI_DUE?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=1"
                                                 id="widget2"></iframe>
                                     </div>
                                 </div>
@@ -180,13 +180,11 @@
                 <img src="{{asset('front/Buvivi.jpg')}}" class="img-fluid" alt="bg">
             </div>
             <div class="col">
-                <p align="justify">SD Islam Bintang Juara adalah sebuah wadah belajar bagi anak-anak usia sekolah dasar yang
-                    mengedepankan
+                <p align="justify">PAUD Islam Bintang Juara adalah sebuah lembaga belajar bagi anak-anak usia dini yang
+                    membangun pondasi anak usia dini yang ceria, cerdas, kreatif dan berakhlak mulia.
                     sisi pendidikan islam dan metode pendekatan sesuai tahapan perkembangan anak. Sehingga anak bisa bertumbuh
-                    sesuai fitrah
-                    seorang mu’min dan kemampuannya berkembang sesuai tahapan usianya. Di Bintang Juara setiap anak dipersiapkan
-                    untuk menjadi
-                    pemimpin muslim yang berakhlak, berilmu, dan bermanfaat</p>
+                    sesuai fitrah seorang mu’min dan kemampuannya berkembang sesuai tahapan usianya. Di Bintang Juara setiap anak dipersiapkan
+                    untuk menjadi pemimpin muslim yang berakhlak, berilmu, dan bermanfaat</p>
             </div>
         </div>
     </div>
@@ -208,7 +206,8 @@
                     <br>
                     <br>
                     <h2><strong>VISI</strong></h2>
-                    <p align="justify">Terwujudnya Calon Pemimpin Muslim yang Berilmu, Berakhlakul Karimah dan Bermanfaat.</p>
+                    <p align="justify">Unggul dalam optimalisasi aspek perkembangan dan potensi kecerdasan dan potensi kederdasan majemuk (Multiple Intelligences) 
+                        serta akhlak mulia anak usia dini berbasis nilai-nilai islami</p>
                 </div>
 
                 <div class="col-4">
@@ -236,15 +235,12 @@
             <div class="col-7">
                 <h2><strong>MISI</strong></h2>
                 <ol>
-                    <li align="justify">Menyelenggarakan metode pembelajaran yang selaras dengan kebutuhan perkembangan anak &
-                        mengoptimalkan
-                        seluruh aspek perkembangan secara holistik integratif.</li>
-                    <li align="justify">Mendidik anak usia sekolah dasar menjadi calon pemimpin muslim yang cinta Allah SWT,
-                        Rasulullah, Al Qur’an, berakhlakul karimah dan bermanfaat bagi masyarakat.</li>
-                    <li align="justify">Menyediakan lingkungan pendidikan dan pengasuhan yang Islami dengan pondasi akidah,
-                        akhlak, adab dan tarbiyah ibadah.</li>
-                    <li align="justify">Menyelenggarakan program pemberdayaan masyarakat serta menjalin sinergi dengan orang tua
-                        siswa, masyarakat dan pemerintah guna mendukung program pendidikan sekolah dasar Islami yang selaras kebutuhan perkembangan anak.</li>
+                    <li align="justify">Menyelenggarakan kegiatan pembelajaran dan evaluasi perkembangan siswa berbasis
+                        metode sentra dan pengembangan Akhlak Mulia.</li>
+                    <li align="justify">Mendidik anak usia dini menjadi pribadi cerdas, ceria dan berakhlak mulia.</li>
+                    <li align="justify">Menyediakan lingkungan pendidikan dan pengasuhan yang yang berlandaskan kasih sayang dan nilai-nilai islami.</li>
+                    <li align="justify">Menyelenggarakan kegiatan yang bersinergi dengan orang tua siswa, masyarakat serta pemerintah dalam rangka membangun pola pengasuhan
+                        dan pendidikan yang berlandaskan kasih sayang dan nilai-nilai islami.</li>
                 </ol>
             </div>
         </div>
@@ -267,15 +263,16 @@
                 <div class="col-6">
                     <h2><strong>Rancangan Kurikulum</strong> </h2>
                     <ol>
-                        <li align="justify">Kurikulum SD Islam Bintang Juara menggunakan acuan utama, yaitu Al-Qur’an, Hadist,
-                            Kurikulum SD yang berlaku
-                            dari Pemerintah (Kurikulum 2013) serta Referensi Tahapan Perkembangan Anak dan Konsep Multiple
-                            Intelligences. </li>
-                        <li align="justify">Bobot muatan : materi keislaman 60%, materi umum 40% :
-                            <p>a. Akidah,<br>b. Akhlak dan Adab,<br>c. Ibadah wajib dan sunnah.</p></li>
-                        <li align="justify">Program hafalan Al Quran : minimal juz 30 (saat Lulus SD).</li>
-                        <li align="justify">Islamic Leadership dengan membuat beragam project sesuai kurikulum
-                            (bersifat individual maupun team – kerjasama dengan teman sekolah maupun keluarga)</li>
+                        <li align="justify">Program kelas</li>
+                        <ul>
+                        <li> Ada 2 Kelompok: KB As Salam dan Al Quddus.</li> 
+                        <li>Siswa KB mulai dari usia 3,3 sampai dengan 4,3 tahunper bulan Juli. </li>
+                        </ul>
+                        <li align="justify">Taman kanak-kanak</li>
+                        <ul>
+                        <li align="justify">TK A ada 3 Kelompok: TK A Al Mu'min, Al Muhaimin, Al Aziz). TK B ada 3 Kelompok : TK B Al Jabbar, Al Muttakabbir, dan Al Kholiq.</li> 
+                        <li>Siswa TK adalah siswa usia 4,4 tahun sampai dengan 6,5 th per bulan Juli</li>
+                        </ul>
                     </ol>
                 </div>
                 <div class="col">
@@ -304,14 +301,14 @@
             <div class="col mt-5">
                 <h2><strong>TUJUAN</strong></h2>
                 <ol>
-                    <li align="justify">Mempersiapkan generasi muslim yang berjiwa kepemimpinan, cinta Al-Qur’an,
-                        berakhlakul karimah dan bermanfaat bagi umat dan alam semesta.</li>
-                    <li align="justify">Memperkuat pondasi Akidah.</li>
-                    <li align="justify">Melatih sikap dan perilaku akhlakul karimah serta memiliki adab Islami.</li>
-                    <li align="justify">Mendidik anak mencintai Allah SWT dengan mengerjakan ibadah wajib dan sunnah sesuai
-                        usianya.</li>
-                    <li align="justify">Mengoptimalkan seluruh aspek perkembangan anak dan mengalirkan materi pembelajaran secara
-                        holistik integratif melalui Metode Pembelajaran berbasis Multiple Intelligences dan Brain based Learning</li>
+                    <li align="justify">Memberikan pondasi bagi keimanan dan ketakwaan kepada Allah SWT serta membangun pribadi
+                        anak usia dini yang berakhlak mulia.</li>
+                    <li align="justify">Memberikan pendampingan dan bimbingan (pijakan) di seluruh potensi perkembangan anak
+                        usia dini secara optimal (sensori motorik, afektif, kognitif).</li>
+                    <li align="justify">Memberikan lingkungan pendidikan dan pengasuhan yang rahman dan rahim (kasih sayang) dengan Metode Pembelajaran Sentra serta
+                        pembiasaan perilaku keagamaan dan akhlak mulia berbasis nilai-nilai Islami.</li>
+                    <li align="justify">Membangun sinergi antara lembaga dan masyarakat dalam membangun pondasi akhlak
+                        mulia anak usia dini</li>
                 </ol>
             </div>
         </div>
@@ -332,18 +329,16 @@
         <div class="container">
             <div class="row fs-5">
                 <div class="col-6">
-                    <h2><strong>Kengapa kami full day school?</strong> </h2>
+                    <h2><strong>mengapa kami menerapkan metode sentra?</strong> </h2>
                     <ol>
-                        <li align="justify">Prioritas kami adalah memberikan pondasi yang kuat
-                            pada aspek akidah, akhlak dan adab Islami. Perlu kesinambungan program kegiatan sejak anak datang hingga
-                            pulang sekolah.</li>
-                        <li align="justify">Kami siap berkomitmen menjadi mitra terbaik orang tua dalam menguatkan pondasi sejak anak
-                            usia dini hingga sekolah dasar,
-                            sebagai persiapan anak memasuki masa baligh, siap menjadi pribadi yang akil (membedakan yang haq dan
-                            bathil).</li>
-                        <li align="justify">Selama di sekolah, anak full dengan kegiatan yang bermutu dan dapat menyambungkan syaraf
-                            otak secara
-                            optimal tanpa terstimulasi televisi dan smartphone.</li>
+                        <li align="justify">Sentra merupakan suatu wadah yang disiapkan guru bagi kegiatan bermain
+                            siapkan guru sentra sesuai tahap perkembangan anak. </li>
+                        <li align="justify">Guru memfasilitasi anak bermain dengan memberi pijakan sebelum main, saat main dan sesudah
+                             main untuk meningkatkan tahap perkembangan anak serta mengalirkan topik pembelajaran yang telah disusun guru dalam Lesson Plan dan
+                            TFP (Term, Fact, Principles & Principles).</li>
+                        <li align="justify">Setiap sentra memiliki jenis kegiata main seperti Sensormotorik atau fungsional, 
+                            simbolik atau peran, Konstruktif atua pembangunan dengan sistem moving class, seperti sentra bahan alam, main peran besar, main peran kecil
+                        seni, balok, persiapan dan imtak dengan perputaran sentra setiap dua minggu sekali</li>
                     </ol>
                 </div>
                 <div class="col">
