@@ -19,7 +19,7 @@
                         </p></div>
                     <div class="col">
                         <div class="row">
-                            <p align="justify">Jl. Dewi Sartika No.17 A, Sukorejo, Kec. Gn. Pati, Kota Semarang,
+                            <p align="justify">Jl. Dewi Sartika No. 82, Sukorejo, Kec. Gn. Pati, Kota Semarang,
                                 50221</p>
                         </div>
                         <div class="row">
@@ -44,17 +44,17 @@
             <div class="col-md-3 col-lg-3 col-xl-3  mt-3">
                 <h5> Follow us : </h5>
                 <div class="row mt-4 ">
-                    <div class="col-2"><a href="https://www.youtube.com/channel/UCmKyv8sPPwrv-LyDaES6L8w/" target="/blank"
+                    <div class="col-2"><a href="https://www.youtube.com/@paudislambintangjuara2472" target="/blank"
                                           class="btn-floating btn-sm text-white">
                             <i class="fab fa-youtube fa-2x"></i></a></div>
                     <div class="col">
-                        <a class="text-white" href="https://www.youtube.com/channel/UCmKyv8sPPwrv-LyDaES6L8w/" target="/blank" style="text-decoration: none;">
+                        <a class="text-white" href="https://www.youtube.com/@paudislambintangjuara2472" target="/blank" style="text-decoration: none;">
                             <p>PAUD Islam Bintang Juara</p>
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-2"><a href="https://www.facebook.com/sdislambintangjuara/" target="/blank"
+                    <div class="col-2"><a href="https://www.facebook.com/PAUDIslamBintangJuara/" target="/blank"
                                           class="btn-floating btn-sm text-white">
                             <i class="fab fa-facebook fa-2x"></i></a></div>
                     <div class="col">
@@ -64,12 +64,12 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-2"><a href="https://www.instagram.com/sdislambintangjuara/" target="/blank"
+                    <div class="col-2"><a href="https://www.instagram.com/paudislambintangjuara/" target="/blank"
                                           class="btn-floating btn-sm text-white">
                             <i class="fab fa-instagram fa-2x"></i></a></div>
                     <div class="col">
                         <a class="text-white" href="https://www.instagram.com/sdislambintangjuara/" style="text-decoration: none;" target="/blank">
-                            <p>@sdislambintangjuara</p>
+                            <p>@paudislambintangjuara</p>
                         </a>
                     </div>
                 </div>

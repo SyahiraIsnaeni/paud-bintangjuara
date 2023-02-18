@@ -108,15 +108,9 @@
         <div class="row">
             <div class="col-7">
                 <input type="checkbox" id="check" />
-                <p align="justify">PAUD ISLAM BINTANG JUARA adalah Islamic Character Based School yang mengedepankan pendidikan
-                    diniyyah seperti pembiasaan ibadah, tahsin & tahfidz, serta penanaman adab dan akhlak mulia.
+                <p align="justify">PAUD ISLAM BINTANG JUARA merupakan lembaga PAUD terpadu dengan layanan pengasuhan anak (daycare). PAUD Islam Bintang Juara memiliki prinsip Pendidikan Holistik Integratif yang mengutamakan peletakkan pondasi Akidah pembiasaan Akhlakul Karimah dan Adab Islami. PAUD Islam Bintang Juara memiliki upaya optimalisasi perkembangan seluruh aspek perkembangan anak dan potensi Multiple Intelligences.
                 <div class="content">
-                    <p align="justify">Kami juga menerapkan pembelajaran
-                        holistik integratif dengan mengintegrasikan segala aspek dan nilai-nilai dalam pendidikan seperti nilai
-                        moral, etis,
-                        religius, psikologis dan sosial dalam kesatuan yang dilakukan secara menyeluruh antara jiwa dan badan
-                        serta aspek material
-                        dan aspek spiritual untuk memenuhi kebutuhan esensial anak.</p>
+                    <p align="justify">PAUD Islam Bintang Juara diresmikan hari Kamis, 16 Mei 2013 di Jl. Dewi Sartika Semarang. PAUD Islam Bintang Juara didirikan oleh Ibu Dyah Indah Noviyani, S.Psi., M.Psi. beserta Dewan Pembina : Ibu Dr. Hj. Esmi Warassih, SH, MS. dan Bapak Drs. H. Abdullah Sodiq.</p>
                 </div>
                 </p>
                 <label for="check">Read More</label>
@@ -271,7 +265,7 @@
                                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                             title="Video Profile PAUD Islam Bintang Juara Semarang | Sekolah Calon Pemimpin Muslim | Sekolah Ramah Anak"
                                             width="620" height="360"
-                                            src="https://www.youtube.com/embed/1GL6RJMI0S4?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=1"
+                                            src="https://www.youtube.com/embed/4XFlYAI_DUE"
                                             id="widget2"></iframe>
                                 </div>
                             </div>
@@ -285,7 +279,7 @@
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     title="Leadership Camp PAUD Islam Bintang Juara | &quot;More Than Just Adventure&quot;" width="620"
                                     height="360"
-                                    src="https://www.youtube.com/embed/zvGGvawkXPo?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsd.bintangjuara.sch.id&amp;widgetid=3"
+                                    src="https://www.youtube.com/embed/GAr9QV2TLcI"
                                     id="widget4"></iframe>
                         </div>
                     </div>
@@ -310,65 +304,34 @@
             <div class="container">
                 <div class="row mb-3 center">
                     <div style="text-align: center;">
-                        <h1><b>Fokus Kurikulum Kami</b></h1>
+                        <h1><b>PROGRAM KELAS</b></h1>
                     </div>
                 </div><br>
-                <debodiv class="row fs-5">
-                    <div class="col-12 col-md-12 col-lg-6">
-                        <div class="row">
-                            <div class="col-2"><i class="fa-solid fa-book-open fa-3x"></i></div>
-                            <div class="col">
-                                <h4 align="justify">Perpaduan Pendidikan Al Qur'an & Al Hadist dengan kurikulum KTSP 2013</h4>
-                            </div>
-                        </div><br>
-                        <div class="row">
-                            <p align="justify">Kurikulum SD Islam Bintang Juara menggunakan acuan utama, yaitu Al-Qur’an, Hadist,
-                                serta Kurikulum SD yang berlaku dari Pemerintah
-                                (KTSP Tahun 2013) serta Referensi Tahapan Perkembangan Anak dan Konsep Multiple Intelligences.</p>
-                        </div><br>
-                    </div>
-                    <div class="col-1"></div>
+                <div class="row fs-5">
                     <div class="col-12 col-md-12 col-lg-5">
                         <div class="row">
-                            <div class="col-2"><i class="fa-solid fa-person-circle-check fa-3x"></i></div>
+                            <div class="col-2"><i class="fa-solid fa-children fa-3x"></i></div>
                             <div class="col">
-                                <h4 align="justify">Islamic Leadership</h4>
+                                <h1 align="justify">Kelompok Bermain</h1>
                             </div>
                         </div><br>
                         <div class="row">
-                            <p align="justify">Membentuk leadership anak dengan membuat beragam project sesuai kurikulum dan kebutuhan
-                                lingkungan (individual maupun tim, kerjasama
-                                dengan teman sekolah maupun anggota keluarga).</p>
+                            <p align="justify">Ada 2 Kelompok: KB As Salam dan Al Quddus. <br> Siswa KB mulai dari usia 3,3 sampai 4,3 tahun per bulan Juli.</p>
+                        </div><br>
+                    </div>
+                    <div class="col-2"></div>
+                    <div class="col-12 col-md-12 col-lg-5">
+                        <div class="row">
+                            <div class="col-2"><i class="fa-solid fa-child-reaching fa-3x"></i></div>
+                            <div class="col">
+                                <h1 align="justify">Taman Kanak-Kanak</h1>
+                            </div>
+                        </div><br>
+                        <div class="row">
+                            <p align="justify">TK A ada 3 kelompok: TK A Al Mu'min, Al Muhaimin, Al Aziz. TK B ada 3 kelompok: TK B Al Jabbar, Al Muttakabbir, dan Al Kholiq. <br> Siswa TK adalah siswa usia 4,4 tahun sampai 6,5 tahun per bulan Juli</p>
                         </div>
                     </div>
-                    <div class="row fs-5 ">
-                        <div class="col-12 col-md-12 col-lg-6">
-                            <div class="row">
-                                <div class="col-2"><i class="fa-solid fa-scale-unbalanced fa-3x"></i></div>
-                                <div class="col">
-                                    <h4 align="justify">Materi Keislaman 60% & Materi Umum 40%</h4></div></div><br>
-                            <div class="row">
-                                <p align="justify">Menitikberatkan pada materi keislaman untuk menguatkan pondasi agama anak, mengajari
-                                    akidah, akhlaq & adab, serta ibadah wajib dan
-                                    sunnah.</p>
-                            </div>
-                        </div>
-                        <div class="col-1"></div>
-                        <div class="col-12 col-md-12 col-lg-5">
-                            <div class="row">
-                                <div class="col-2"><i class="fa-sharp fa-solid fa-circle-check fa-3x"></i></div>
-                                <div class="col"><h4 align="justify">Karakter & Tanggung Jawab</h4></div>
-                            </div>
-                            <br>
-                            <div class="row">
-                                <p align="justify">Kami tidak hanya memberikan materi pendidikan secara teori, namun kami membiasakan
-                                    ha-hal
-                                    baik sebagai pendidikan tanggungjawab dan
-                                    pembentukan karakter, sehingga anak bisa menjalanankan peran di masyarakat dengan baik.</p>
-                            </div>
-                        </div>
-                    </div>
-                </debodiv>
+                </div>
             </div>
         </div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">\
@@ -508,13 +471,13 @@
                     <div class="row">
                         <div class="col-12 col-md-6 col-lg-6">
                             <h2><strong>Kontak Kami</strong></h2>
-                            <p><i class="fas fa-home mr-3"></i> &nbsp; Jl. Dewi Sartika No.17 A, Sukorejo, Kec. Gn. Pati, Kota Semarang, 50221</p>
-                            <p><i class="fas fa-clock mr-3"></i> &nbsp; Senin - Sabtu (07.00 - 15.00)</p>
-                            <p><i class="fas fa-phone mr-3"></i> &nbsp; 0823-1493-0833</p>
-                            <p><i class="fas fa-phone mr-3"></i> &nbsp; 0823-1493-0833</p>
+                            <p><i class="fas fa-home mr-3"></i> &nbsp; Jl. Dewi Sartika No.82, Sukorejo, Kec. Gn. Pati, Kota Semarang, 50221</p>
+                            <p><i class="fas fa-clock mr-3"></i> &nbsp; Senin - Sabtu (08.00 - 15.00)</p>
+                            <p><i class="fas fa-phone mr-3"></i> &nbsp; (024) 8445492</p>
+                            <p><i class="fas fa-phone mr-3"></i> &nbsp; 0896-6255-2583</p>
                         </div>
                         <div class="col-12 col-md-6 col-lg-6">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1979.9422714849622!2d110.38611055872192!3d-7.022855500000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708bbd641c18cb%3A0xb100361d402b0f30!2sSD%20ISLAM%20BINTANG%20JUARA!5e0!3m2!1sen!2sus!4v1676260730522!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.896545700916!2d110.38650111485862!3d-7.021445594928205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708ba8c08f85c7%3A0xdafc80d505fdac34!2sIslamic%20Preschool%20Bintang%20Juara!5e0!3m2!1sen!2sid!4v1676713845472!5m2!1sen!2sid" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
