@@ -250,7 +250,7 @@
 </section>
 <!--akhir visi  -->
 
-<!-- rancangan -->
+<!-- program -->
 <section id="rancangan">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path fill="#45b0f8" fill-opacity="1"
@@ -261,7 +261,7 @@
         <div class="container">
             <div class="row fs-5">
                 <div class="col-6">
-                    <h2><strong>Rancangan Kurikulum</strong> </h2>
+                    <h2><strong>Program Kelas</strong> </h2>
                     <ol>
                         <li align="justify">Program kelas</li>
                         <ul>
