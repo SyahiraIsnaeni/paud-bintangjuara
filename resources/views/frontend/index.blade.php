@@ -244,7 +244,7 @@
 <!-- Akhir Events, News, Videos -->
 
 <!-- video yt -->
-<div class="video yt">
+<section id="video yt">
     <div class="container mt-5">
         <div class="bintangjuaravideo">
             <div class="heading">
@@ -272,7 +272,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-6">
+                <div class="col-12 col-md-6">
                     <div class="bintangjuaravideo">
                         <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
                             <iframe class="elementor-video" frameborder="0" allowfullscreen="1"
@@ -287,7 +287,7 @@
             </div>
         </section>
     </div>
-</div>
+</section>
 <!-- akhir video yt -->
 
 
@@ -403,14 +403,12 @@
         <div class="container mt-5 mb-5" >
             <div class="slide-container-swiper mt-5 mb-5">
                 <div class="row">
-                    <div class="col-2">
+                    <div class="col-3">
                         <h2><b>Galeri</b></h2>
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                         <div class="main-scroll-div">
-                            <div>
-                                <button class="icon" onclick="scrollr()"><i class="fas fa-angle-double-left"></i></button>
-                            </div>
+                            
                             <div class="cover">
                                 <div class="scroll-images">
                                     @forelse ($galeri as $row)
@@ -419,9 +417,7 @@
                                     @endforelse
                                 </div>
                             </div>
-                            <div>
-                                <button class="icon" onclick="scrolll()"><i class="fas fa-angle-double-right"></i></button>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
