@@ -211,7 +211,6 @@
                 <div class="col-4">
                     <div style="text-align: right;">
                         <img src="{{asset('front/visi.png')}}" class="img-fluid" alt="bg"></div></div>
-
             </div>
         </div>
     </div>
