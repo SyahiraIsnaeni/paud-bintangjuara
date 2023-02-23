@@ -26,7 +26,7 @@
             border-radius: 20px 20px 20px 20px;
         }
         .banner {
-            background: url("{{asset('front/gedung1.jpg')}}") no-repeat center center;
+            background: url("{{asset('front/paud.jpg')}}") no-repeat center center;
             background-size: cover;
             padding-top: 20%;
             padding-bottom: 20%;
@@ -129,7 +129,7 @@
             <div class="row fs-5">
                 <div class="col-12 col-md-6 col-lg-6">
                     <h2><strong>Tentang kami</strong> </h2>
-                    <p align="justify">PAUD Islam Bintang Juara merupakan lembaga PAUD terpadu dengan layananan pengasuhan anak 
+                    <p align="justify">PAUD Islam Bintang Juara merupakan lembaga PAUD terpadu dengan layananan pengasuhan anak
                         (daycare). PAUD Islam Bintang Juara memiliki prinsip "Pendidikan Holistik Integratif" yang
                         mengutamakan peletakan Pondasi Akidah Pembiasaan Akhlakul Karimah dan Adab Islami.
                         PAUD Islam Bintang Juara memiliki upaya optimalisasi perkembangan seluruh aspek perkembangan
@@ -206,7 +206,7 @@
                     <br>
                     <br>
                     <h2><strong>VISI</strong></h2>
-                    <p align="justify">Unggul dalam optimalisasi aspek perkembangan dan potensi kecerdasan dan potensi kederdasan majemuk (Multiple Intelligences) 
+                    <p align="justify">Unggul dalam optimalisasi aspek perkembangan dan potensi kecerdasan dan potensi kederdasan majemuk (Multiple Intelligences)
                         serta akhlak mulia anak usia dini berbasis nilai-nilai islami</p>
                 </div>
 
@@ -264,12 +264,12 @@
                     <ol>
                         <li align="justify">Program kelas</li>
                         <ul>
-                        <li> Ada 2 Kelompok: KB As Salam dan Al Quddus.</li> 
+                        <li> Ada 2 Kelompok: KB As Salam dan Al Quddus.</li>
                         <li>Siswa KB mulai dari usia 3,3 sampai dengan 4,3 tahunper bulan Juli. </li>
                         </ul>
                         <li align="justify">Taman kanak-kanak</li>
                         <ul>
-                        <li align="justify">TK A ada 3 Kelompok: TK A Al Mu'min, Al Muhaimin, Al Aziz). TK B ada 3 Kelompok : TK B Al Jabbar, Al Muttakabbir, dan Al Kholiq.</li> 
+                        <li align="justify">TK A ada 3 Kelompok: TK A Al Mu'min, Al Muhaimin, Al Aziz). TK B ada 3 Kelompok : TK B Al Jabbar, Al Muttakabbir, dan Al Kholiq.</li>
                         <li>Siswa TK adalah siswa usia 4,4 tahun sampai dengan 6,5 th per bulan Juli</li>
                         </ul>
                     </ol>
@@ -335,7 +335,7 @@
                         <li align="justify">Guru memfasilitasi anak bermain dengan memberi pijakan sebelum main, saat main dan sesudah
                              main untuk meningkatkan tahap perkembangan anak serta mengalirkan topik pembelajaran yang telah disusun guru dalam Lesson Plan dan
                             TFP (Term, Fact, Principles & Principles).</li>
-                        <li align="justify">Setiap sentra memiliki jenis kegiata main seperti Sensormotorik atau fungsional, 
+                        <li align="justify">Setiap sentra memiliki jenis kegiata main seperti Sensormotorik atau fungsional,
                             simbolik atau peran, Konstruktif atua pembangunan dengan sistem moving class, seperti sentra bahan alam, main peran besar, main peran kecil
                         seni, balok, persiapan dan imtak dengan perputaran sentra setiap dua minggu sekali</li>
                     </ol>
