@@ -71,6 +71,3 @@ Route::get('/gallery', [\App\Http\Controllers\FrontendController::class, 'galler
 Route::get('/profile', [\App\Http\Controllers\FrontendController::class, 'profil']);
 Route::get('/detail-guru', [\App\Http\Controllers\FrontendController::class, 'guru']);
 
-Route::get('/welcome', function () {
-    return view('welcome');
-});
