@@ -117,4 +117,31 @@ class FrontendController extends Controller
         $guru1 = Guru::whereRaw('MOD(id, 4) = 0')->orderByDesc('updated_at')->get();
         return view('frontend.guru', compact('guru1', 'guru2', 'guru3', 'guru4'));
     }
+
+    public function postPengumuman()
+    {
+        $pengumuman = Pengumuman::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+
+        return response()->json($pengumuman);
+    }
+
+    public function postBerita()
+    {
+        $berita = Berita::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+        return response()->json($berita);
+    }
+
+    public function postArtikel()
+    {
+        $artikel = Artikel::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+
+        return response()->json($artikel);
+    }
+
+    public function postKegiatan()
+    {
+        $kegiatan = Kegiatan::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+
+        return response()->json($kegiatan);
+    }
 }
