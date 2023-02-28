@@ -43,6 +43,12 @@ class FrontendController extends Controller
         return view('frontend.artikel', compact('artikel', 'nextArtikel'));
     }
 
+    public function artikelJson($slug)
+    {
+        $artikel = Artikel::where('slug', $slug)->first();
+        return response()->json($artikel);
+    }
+
     public function daftarArtikel()
     {
         $artikel = Artikel::where('is_active', '1')->orderByDesc('created_at')->get();
@@ -54,6 +60,12 @@ class FrontendController extends Controller
         $berita = Berita::where('slug', $slug)->first();
         $nextBerita = Berita::whereNotIn('slug', [$slug])->where('is_active', '1')->limit(3)->orderByDesc('created_at')->get();
         return view('frontend.berita', compact('berita', 'nextBerita'));
+    }
+
+    public function beritaJson($slug)
+    {
+        $berita = Berita::where('slug', $slug)->first();
+        return response()->json($berita);
     }
 
     public function daftarBerita()
@@ -69,6 +81,12 @@ class FrontendController extends Controller
         return view('frontend.kegiatan', compact('kegiatan', 'nextKegiatan'));
     }
 
+    public function kegiatanJson($slug)
+    {
+        $kegiatan = Kegiatan::where('slug', $slug)->first();
+        return response()->json($kegiatan);
+    }
+
     public function daftarKegiatan()
     {
         $kegiatan = Kegiatan::where('is_active', '1')->orderByDesc('created_at')->get();
@@ -80,6 +98,12 @@ class FrontendController extends Controller
         $pengumuman = Pengumuman::where('slug', $slug)->first();
         $nextPengumuman = Pengumuman::whereNotIn('slug', [$slug])->where('is_active', '1')->limit(3)->orderByDesc('created_at')->get();
         return view('frontend.pengumuman', compact('pengumuman', 'nextPengumuman'));
+    }
+
+    public function pengumumanJson($slug)
+    {
+        $pengumuman = Pengumuman::where('slug', $slug)->first();
+        return response()->json($pengumuman);
     }
 
     public function daftarPengumuman()
@@ -120,28 +144,56 @@ class FrontendController extends Controller
 
     public function postPengumuman()
     {
-        $pengumuman = Pengumuman::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+        $pengumuman = Pengumuman::where('is_active', '1')->limit(3)->orderByDesc('created_at')->get();
 
         return response()->json($pengumuman);
     }
 
     public function postBerita()
     {
-        $berita = Berita::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+        $berita = Berita::where('is_active', '1')->limit(3)->orderByDesc('created_at')->get();
         return response()->json($berita);
     }
 
     public function postArtikel()
     {
-        $artikel = Artikel::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+        $artikel = Artikel::where('is_active', '1')->limit(3)->orderByDesc('created_at')->get();
 
         return response()->json($artikel);
     }
 
     public function postKegiatan()
     {
-        $kegiatan = Kegiatan::where('is_active', '1')->limit(5)->orderByDesc('created_at')->get();
+        $kegiatan = Kegiatan::where('is_active', '1')->limit(3)->orderByDesc('created_at')->get();
 
         return response()->json($kegiatan);
     }
+
+    public function postKegiatanPrioritas()
+    {
+        $kegiatanPrioritas = Kegiatan::where('is_active', '1')->limit(1)->orderByDesc('created_at')->get();
+
+        return response()->json($kegiatanPrioritas);
+    }
+
+    public function postBeritaPrioritas()
+    {
+        $beritaPrioritas = Berita::where('is_active', '1')->limit(1)->orderByDesc('created_at')->get();
+        return response()->json($beritaPrioritas);
+    }
+
+    public function postArtikelPrioritas()
+    {
+        $artikelPrioritas = Artikel::where('is_active', '1')->limit(1)->orderByDesc('created_at')->get();
+
+        return response()->json($artikelPrioritas);
+    }
+
+    public function postPengumumanPrioritas()
+    {
+        $pengumumanPrioritas = Pengumuman::where('is_active', '1')->limit(1)->orderByDesc('created_at')->get();
+
+        return response()->json($pengumumanPrioritas);
+    }
+
 }
