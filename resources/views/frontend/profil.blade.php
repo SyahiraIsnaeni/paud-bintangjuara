@@ -176,10 +176,10 @@
 <section id="ketuayayasan">
     <div class="container">
         <div class="row fs-5">
-            <div class="col-6">
+            <div class="col-12 col-md-6">
                 <img src="{{asset('front/Buvivi.jpg')}}" class="img-fluid" alt="bg">
             </div>
-            <div class="col">
+            <div class="col-12 col-md-6 mt-3">
                 <p align="justify">PAUD Islam Bintang Juara adalah sebuah lembaga belajar bagi anak-anak usia dini yang
                     membangun pondasi anak usia dini yang ceria, cerdas, kreatif dan berakhlak mulia.
                     sisi pendidikan islam dan metode pendekatan sesuai tahapan perkembangan anak. Sehingga anak bisa bertumbuh
@@ -228,10 +228,10 @@
 <section id="misi">
 
     <div class="container">
-        <div class="row ">
-            <div class="col-5">
+        <div class="row fs-5">
+            <div class="col-6">
                 <img src="{{asset('front/misi.png')}}" class="img-fluid" alt="bg"></div>
-            <div class="col-7">
+            <div class="col mt-5">
                 <h2><strong>MISI</strong></h2>
                 <ol>
                     <li align="justify">Menyelenggarakan kegiatan pembelajaran dan evaluasi perkembangan siswa berbasis
@@ -259,7 +259,7 @@
     <div class="container-fluid text-white" style="background-color: #45b0f8;">
         <div class="container">
             <div class="row fs-5">
-                <div class="col-6">
+                <div class="col-12 col-md-6 mt-3">
                     <h2><strong>Program Kelas</strong> </h2>
                     <ol>
                         <li align="justify">Program kelas</li>
@@ -274,7 +274,7 @@
                         </ul>
                     </ol>
                 </div>
-                <div class="col">
+                <div class="col-12 col-md-6">
                     <div style="text-align: right;">
                         <img src="{{asset('front/otak.png')}}" class="img-fluid" alt="bg"></div></div>
             </div>
@@ -327,7 +327,7 @@
     <div class="container-fluid text-white" style="background-color: #45b0f8;">
         <div class="container">
             <div class="row fs-5">
-                <div class="col-6">
+                <div class="col-12 col-md-6 mt-3">
                     <h2><strong>mengapa kami menerapkan metode sentra?</strong> </h2>
                     <ol>
                         <li align="justify">Sentra merupakan suatu wadah yang disiapkan guru bagi kegiatan bermain
@@ -340,7 +340,7 @@
                         seni, balok, persiapan dan imtak dengan perputaran sentra setiap dua minggu sekali</li>
                     </ol>
                 </div>
-                <div class="col">
+                <div class="col-12 col-md-6 mb-5">
                     <div class="row">
                         <div style="text-align: right;">
                             <img src="{{asset('front/gedung1.jpg')}}" class="img-fluid" alt="bg"></div></div>

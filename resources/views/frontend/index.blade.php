@@ -105,8 +105,8 @@
         <div class="row">
             <h2><b>Selayang Pandang</b></h2>
         </div>
-        <div class="row">
-            <div class="col-7">
+        <div class="row fs-5">
+            <div class="col-12 col-md-6 mt-3">
                 <input type="checkbox" id="check" />
                 <p align="justify">PAUD ISLAM BINTANG JUARA merupakan lembaga PAUD terpadu dengan layanan pengasuhan anak (daycare). PAUD Islam Bintang Juara memiliki prinsip Pendidikan Holistik Integratif yang mengutamakan peletakkan pondasi Akidah pembiasaan Akhlakul Karimah dan Adab Islami. PAUD Islam Bintang Juara memiliki upaya optimalisasi perkembangan seluruh aspek perkembangan anak dan potensi Multiple Intelligences.
                 <div class="content">
@@ -115,7 +115,7 @@
                 </p>
                 <label for="check">Read More</label>
             </div>
-            <div class="col">
+            <div class="col-12 col-md-6">
                 <img src="{{asset('front/gedung1.jpg')}}" class="img-fluid" alt="bg">
             </div>
         </div>
@@ -310,7 +310,7 @@
                 <div class="row fs-5">
                     <div class="col-12 col-md-12 col-lg-5">
                         <div class="row">
-                            <div class="col-2"><i class="fa-solid fa-children fa-3x"></i></div>
+                            <div class="col-3"><i class="fa-solid fa-children fa-3x"></i></div>
                             <div class="col">
                                 <h1 align="justify">Kelompok Bermain</h1>
                             </div>
@@ -322,7 +322,7 @@
                     <div class="col-2"></div>
                     <div class="col-12 col-md-12 col-lg-5">
                         <div class="row">
-                            <div class="col-2"><i class="fa-solid fa-child-reaching fa-3x"></i></div>
+                            <div class="col-3"><i class="fa-solid fa-child-reaching fa-3x"></i></div>
                             <div class="col">
                                 <h1 align="justify">Taman Kanak-Kanak</h1>
                             </div>
