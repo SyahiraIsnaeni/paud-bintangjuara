@@ -145,7 +145,7 @@
                                      data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=1GL6RJMI0S4&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}"
                                      data-widget_type="video.default">
                                     <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-                                        <iframe class="elementor-video" frameborder="1" allowfullscreen="1"
+                                        <iframe class="responsive-iframe" frameborder="1" allowfullscreen="1"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                                 title="Video Profile PAUD Islam Bintang Juara Semarang | Sekolah Calon Pemimpin Muslim | Sekolah Ramah Anak"
                                                 width="620px" height="360px"
