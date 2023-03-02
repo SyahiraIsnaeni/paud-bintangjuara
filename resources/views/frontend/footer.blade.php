@@ -7,31 +7,54 @@
 <footer class="text-white" style="background-color: #45b0f8;">
     <div class="container text-md-left">
         <div class="row align-items-center">
-            <div class="col-md-3 col-lg-3 col-xl-4 mt-3">
+            <div class="col-12 col-md-6 col-lg-6 mt-3">
                 <h5>
                     <img src="{{asset('front/logo2.png')}}" alt="logo" height="50">
                     <img src="{{asset('front/logo1.png')}}" alt="logo" height="50"> Bintang Juara
                 </h5>
                 <div class="row mt-4">
-                    <div class="col-1">
-                        <p>
-                            <i class="fas fa-home mr-3"></i>
-                        </p><br><br>
-                        <p>
-                            <i class="fas fa-envelope mr-3 mt-2"></i>
-                        </p>
-                        <p>
-                            <i class="fas fa-envelope mr-3 mt-2"></i>
-                        </p>
-                    </div>
-                    <div class="col">
-                        <div class="row">
+                    <div class="row">
+                        <div class="col-1">
+                            <p>
+                                <i class="fas fa-home mr-3"></i>
+                            </p>
+                        </div>
+                        <div class="col">
                             <p align="justify">Jl. Dewi Sartika No. 82, Kelurahan Sukorejo, Kecamatan Gunungpati, Kota Semarang,
                                 50221</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-1">
+                            <p>
+                                <i class="fas fa-phone mr-3"></i>
+                            </p>
+                        </div>
+                        <div class="col">
+                            <p ><a class="text-white" href = "https://wa.link/h31ug4" style="text-decoration: none;">089662552583</a></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-1">
+                            <p>
+                                <i class="fas fa-envelope mr-3"></i>
+                            </p>
+                        </div>
+                        <div class="col">
                             <p ><a class="text-white" href = "mailto:humas@bintangjuara.sch.id " style="text-decoration: none;">humas@bintangjuara.sch.id</a></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-1">
+                            <p>
+                                <i class="fas fa-envelope mr-3"></i>
+                            </p>
+                        </div>
+                        <div class="col">
                             <p ><a class="text-white" href = "mailto:admin.it@bintangjuara.sch.id " style="text-decoration: none;">admin.it@bintangjuara.sch.id</a></p>
                         </div>
-                        
+                    </div>
+
                         <div class="row">
                             <p>
                                 <a href="{{route('beranda')}}" style="text-decoration: none;">
@@ -45,7 +68,7 @@
                     </div>
                 </div>
 
-            </div>
+            
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             </div>
             <div class="col-md-3 col-lg-3 col-xl-3  mt-3">
@@ -81,6 +104,7 @@
                     </div>
                 </div>
             </div>
+        </div>
             <hr class="mb-4">
             <div class="row align-items-center text-center pb-5">
                 <p>
