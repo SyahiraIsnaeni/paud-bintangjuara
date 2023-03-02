@@ -343,7 +343,7 @@
                 <div class="col-12 col-md-6 mb-5">
                     <div class="row">
                         <div style="text-align: right;">
-                            <img src="{{asset('front/gedung1.jpg')}}" class="img-fluid" alt="bg"></div></div>
+                            <img src="{{asset('front/paud.jpg')}}" class="img-fluid" alt="bg"></div></div>
                 </div>
             </div>
         </div>

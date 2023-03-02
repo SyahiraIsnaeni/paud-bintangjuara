@@ -116,7 +116,7 @@
                 <label for="check">Read More</label>
             </div>
             <div class="col-12 col-md-6">
-                <img src="{{asset('front/gedung1.jpg')}}" class="img-fluid" alt="bg">
+                <img src="{{asset('front/paud.jpg')}}" class="img-fluid" alt="bg">
             </div>
         </div>
     </div>
