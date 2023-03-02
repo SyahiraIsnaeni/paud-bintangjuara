@@ -467,10 +467,11 @@
                     <div class="row">
                         <div class="col-12 col-md-6 col-lg-6">
                             <h2><strong>Kontak Kami</strong></h2>
-                            <p><i class="fas fa-home mr-3"></i> &nbsp; Jl. Dewi Sartika No.82, Sukorejo, Kec. Gn. Pati, Kota Semarang, 50221</p>
+                            <p><i class="fas fa-home mr-3"></i> &nbsp; Jl. Dewi Sartika No.82,Kelurahan Sukorejo, Kecamatan Gunungpati, Kota Semarang, 50221</p>
                             <p><i class="fas fa-clock mr-3"></i> &nbsp; Senin - Sabtu (08.00 - 15.00)</p>
-                            <p><i class="fas fa-phone mr-3"></i> &nbsp; (024) 8445492</p>
-                            <p><i class="fas fa-phone mr-3"></i> &nbsp; 0896-6255-2583</p>
+                            <p><i class="fas fa-phone mr-3"></i> &nbsp; WhatsApp : +62 896-6255-2583</p>
+                            <p><i class="fas fa-envelope mr-3"></i> &nbsp;<a href = "mailto:humas@bintangjuara.sch.id">humas@bintangjuara.sch.id</a> </p>
+                            <p><i class="fas fa-envelope mr-3"></i> &nbsp;<a href = "mailto:admin.it@bintangjuara.sch.id">admin.it@bintangjuara.sch.id</a> </p>
                         </div>
                         <div class="col-12 col-md-6 col-lg-6">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.896545700916!2d110.38650111485862!3d-7.021445594928205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708ba8c08f85c7%3A0xdafc80d505fdac34!2sIslamic%20Preschool%20Bintang%20Juara!5e0!3m2!1sen!2sid!4v1676713845472!5m2!1sen!2sid" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
